@@ -1,5 +1,5 @@
 # react-work
-React apps 
+React apps built with "create-react-app"
 
 run
 
